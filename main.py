@@ -5,3 +5,6 @@ def toplu():
     
 def hello():
     return 'hello'
+    
+def cili():
+    return "asd"
