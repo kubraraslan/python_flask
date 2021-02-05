@@ -8,3 +8,6 @@ def hello():
     
 def cili():
     return "asd"
+    
+def hizir_nerede()
+    return "kalbimizde"
